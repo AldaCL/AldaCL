@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aldair Cortés</h1>
 <h3 align="center">A passionate Java/Python developer from Mexico. I am proficient deploying and maintaining projects in the GCP</h3>
 
-- 🔭 I’m currently working on **El puerto de Liverpool, a big retailer at México**
+- 🔭 I am currently working at **The Port of Liverpool, a large retailer in Mexico** as a Data Engineer for the Customer Data Platform (CDP) where I am in charge of designing, developing new architectures and data pipelines, as well as microservices and robust data models.
 
 - 🌱 I feel passionate about georeferenced data, and using GeoPandas to make usefull and atractive maps. As long as I'm a Telecommunications engineer, I always like to keep making proyects and contributions in this field like: [Radiobroadcast population coverage Data Analysis Notebook](https://aldacl.github.io/radiobroadcast_data/)
 
 - 💬 Ask me about **Python(Pandas,Geopandas,Flask,Django) and Java(Spring boot), but also about Apache Beam, Kubernetes and Docker**
 
-- 📫 How to reach me **aldair.alda27@gmail.com**
+- 📫 You can reach me at **aldair.alda27@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
