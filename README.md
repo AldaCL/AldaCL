@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldair Cortés</h1>
-<h3 align="center">A passionate Java/Python developer from Mexico. I am proficient deploying and maintaining projects in the GCP</h3>
+<h3 align="center">A passionate Data Engineer from Mexico. I am proficient deploying and maintaining projects in the GCP</h3>
 
 - 🔭 I am currently working at **The Port of Liverpool, a large retailer in Mexico** as a Data Engineer for the Customer Data Platform (CDP) where I am in charge of designing, developing new architectures and data pipelines, as well as microservices and robust data models.
 
