@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working at **The Port of Liverpool, a large retailer in Mexico** as a Data Engineer for the Customer Data Platform (CDP) where I am in charge of designing, developing new architectures and data pipelines, as well as microservices and robust data models.
 
-- 🌱 I feel passionate about georeferenced data, and using GeoPandas to make usefull and atractive maps. As long as I'm a Telecommunications engineer, I always like to keep making proyects and contributions in this field like: [Radiobroadcast population coverage Data Analysis Notebook](https://aldacl.github.io/radiobroadcast_data/)
+- 🌱 I feel passionate about georeferenced data, and using GeoPandas to make usefull and atractive maps. As long as I'm a Telecommunications engineer, I always like to keep making proyects and contributions in this field, as example my Jupyter Notebooks: [Radiobroadcast population coverage Data Analysis Notebook](https://aldacl.github.io/radiobroadcast_data/)
 
 - 💬 Ask me about **Python(Pandas,Geopandas,Flask,Django) and Java(Spring boot), but also about Apache Beam, Kubernetes and Docker**
 
